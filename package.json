@@ -1,0 +1,8 @@
+{
+  "name": "typescript-for-javascript-developers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RyosukeWada0014/typescript-for-javascript-developers.git",
+  "author": "RyosukeWada0014 <fbdp.14@gmail.com>",
+  "license": "MIT"
+}
