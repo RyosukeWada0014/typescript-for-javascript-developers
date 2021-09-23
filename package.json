@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/RyosukeWada0014/typescript-for-javascript-developers.git",
   "author": "RyosukeWada0014 <fbdp.14@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
